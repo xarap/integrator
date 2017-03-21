@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>integrator</name>
+	<displayName><![CDATA[Integrator]]></displayName>
+	<version><![CDATA[5.3.1]]></version>
+	<description><![CDATA[Modul generujacy pliki XML do najpopularniejszych por&oacute;wnywarek cenowych, takich jak: Ceneo, Skapiec czy Nokaut.]]></description>
+	<author><![CDATA[PrestaHelp]]></author>
+	<tab><![CDATA[pricing_promotion]]></tab>
+	<confirmUninstall><![CDATA[Czy na pewno chcesz usunąć ten moduł?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
